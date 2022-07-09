@@ -6,44 +6,27 @@
 5. [FAQs](#faqs)
 ### General Info
 ***
-Write down the general informations of your project. It is worth to always put a project status in the Readme file. This is where you can add it. 
+Le HackerSpace est un groupe discord lié à la FoxShield Community une équipe qui ce fait kiffer sur dev et rien d'autre.
+Nous vous proposons ce bot aujourd'hui dans le but de vous aider pour vos serveurs
+Tout les annonces d'update seront faîtes sur [FoxShield Community](https://discord.gg/PDC8m8gan4)
 ### Screenshot
-![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
+![Image text](https://imgur.com/a/UVNiRDT)
 ## Technologies
 ***
 A list of technologies used within the project:
-* [Technologie name](https://example.com): Version 12.3 
-* [Technologie name](https://example.com): Version 2.34
-* [Library name](https://example.com): Version 1234
+* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript): Version ES2015
+* [DiscordJS](https://discord.js.org/#/): Lastest Version
 ## Installation
 ***
 A little intro about the installation. 
 ```
-$ git clone https://example.com
-$ cd ../path/to/the/file
-$ npm install
-$ npm start
+$ go to "Code"
+$ Download ZIP
+$ UnZip Fil on your Desktop
 ```
-Side information: To use the application in a special environment use ```lorem ipsum``` to start
+Use [Visual Studio Code](https://code.visualstudio.com/) to config Bot ../config.json
+
+Side information: To use the application in a special environment use ```DiscordJS``` to start
 ## Collaboration
 ***
-Give instructions on how to collaborate with your project.
-> Maybe you want to write a quote in this part. 
-> It should go over several rows?
-> This is how you do it.
-## FAQs
-***
-A list of frequently asked questions
-1. **This is a question in bold**
-Answer of the first question with _italic words_. 
-2. __Second question in bold__ 
-To answer this question we use an unordered list:
-* First point
-* Second Point
-* Third point
-3. **Third question in bold**
-Answer of the third question with *italic words*.
-4. **Fourth question in bold**
-| Headline 1 in the tablehead | Headline 2 in the tablehead | Headline 3 in the tablehead |
-|:--------------|:-------------:|--------------:|
-| text-align left | text-align center | text-align right |
+Join HackerSpace Community [HackerSpace](https://discord.gg/CArBFxQEhX)
