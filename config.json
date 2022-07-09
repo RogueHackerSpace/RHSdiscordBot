@@ -1,13 +1,13 @@
 {
-    "token": "OTg4OTA1ODk0Mzc0OTQ4OTU0.GPZwam.9U23md1w199ddSH7UyMbQB3j7JFnFdSPUGz5DE",
-    "color": "orange",
-    "prefix": "fs!",
-    "name": "FoxShield | Bot Discord",
+    "token": "Bot_Token (https://discord.com/developers/applications)",
+    "color": "black",
+    "prefix": "$",
+    "name": "HackerSpace | LuneDemoniaque №0",
     "defaultjoinmessage": "{user} vient de rejoindre. Il a été invité par **{inviter:name}** qui a désormais **{invite} invitations** !",
     "defaultleavemessage": "{user} vient de quitter. Il avais été invité par **{inviter:name}** qui a désormais **{invite} invitations** ",
     "defaultLevelmessage": "**{user}** vient de passer au level **{level}** bravo à lui !",
     "owner": [
-        "natrasta2#0911",
+        "ハッカーデビル#0404",
         "918489336813604915"
     ]
 }
